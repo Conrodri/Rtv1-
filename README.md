@@ -7,7 +7,7 @@ Rtv1 is a simple raytracer that can display 4 simple geometrical shapes: a plane
 
 ##Warning
 
-This project is not finished , it misses shadows and a better camera for new angles.
+This project is not finished , it misses shadows , a better camera for new angles and quite a lot of optimisation.
 
 ##Picture
 
